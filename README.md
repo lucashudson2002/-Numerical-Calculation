@@ -1,20 +1,13 @@
-<h1 align="center"> Numerical Calculation </h1>
-<p  align="center"> 
-	Mathematical methods in Python to do some calculations, getting to the result by approximation or exactly. <br>
-	:construction:  Project under improvements  :construction:
-</p>
+# Numerical Calculation
 
-<h2> Binário <-> Decimal </h2>
-<p> </p>
+Some codes and works I made using Python in the discipline DCC008 - Cálculo Numérico 2021/1.
 
-<h2> Interpolação Polinomial </h2>
-<p> </p>
+## Binário <-> Decimal
 
-<h2> Raíz de Equações </h2>
-<p> </p>
+## Interpolação Polinomial
 
-<h2> Resolução de Sistema Linear </h2>
-<p> </p>
+## Raíz de Equações
 
-<h2> Polinômio de Taylor </h2>
-<p> </p>
+## Resolução de Sistema Linear
+
+## Polinômio de Taylor
